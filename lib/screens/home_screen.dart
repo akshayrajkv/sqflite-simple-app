@@ -17,7 +17,7 @@ class HomeScreen extends StatelessWidget {
         title:const Text('Students'),
       ) ,
       body: Padding(
-        padding: const EdgeInsets.all(10.0),
+        padding: const EdgeInsets.all(11.0),
         child: Column(
         
           children: [
